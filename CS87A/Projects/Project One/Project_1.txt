@@ -1,0 +1,12 @@
+PROJECT 1 (I/O): 
+Take as input a person's name, hourly rate, and total hours worked. Calculate and ouput their their total weekly salary to the terminal.
+
+OUTPUT:
+Enter your name: 
+Alfonso 
+Alfonso, kindly Enter your hourly rate: 
+15.0
+Alfonso, kindly Enter the total hours you have worked this week: 
+40.0
+
+Alfonso, your salary for this week should be $600.00

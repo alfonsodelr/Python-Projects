@@ -1,0 +1,40 @@
+===================================================================
+Function:
+Name: VerifyUser || Return Type: bool || Parameters: userID, password
+Description: 
+verify if the inputs match a constant userID and password. 
+
+If userID [OR] password are incorrect, output a prompt notifying the user they're incorrect and return false.
+
+If userID [AND] password are correct, output a prompt notifying the user they're correct and return true.
+
+Note: The correct value of userID and password is for you to decide. You're simply comparing inputs to those two constant values.
+===================================================================
+Function
+Name: Login || Return type: void/none || Parameters: None
+Description:
+Takes input: ID and Password.
+Calls VerifyUser function and passes the two inputs. 
+
+Create a variable that maintains the amount of times a user has input incorrect values. 
+
+If the user fails to verify credentials three times, output a prompt notifying the user that they have failed too many times.
+Hint: Loop is needed.
+
+If the user inputs correct credentials, break from the loop and end program.
+
+===================================================================
+Function
+Name about || Parameters: None || Return Type: Void/None
+
+Outputs: Our mission is to produce the highest quality true random programs and make them available to the world in useful forms.
+
+===================================================================
+Function
+Name: Main || Parameters: None
+Description: 
+Similar to project 2, create a menu that lets the user choose between 
+1. login || 2. about page
+If user inputs anything other than "1" or "2", prompt "invalid input"
+
+===================================================================

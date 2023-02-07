@@ -1,0 +1,31 @@
+PROJECT 2 (Functions):
+Part A:
+Create a function tempConvert with parameter Fahrenheit that converts its input from Fahrenheit to Celsius and outputs the result. 
+
+Part B:
+Create a function speedConvert with parameter mph that converts its input from mph to mps and displays both mph and mps values on the screen.
+
+Part C:
+In a main function, ask the user to choose between using the first 
+and second functions using an if-elif-else branch.
+
+OUTPUT:
+===================================================================
+Enter [1] to convert Fahrenheit temperature to Celsius
+Enter [2] to convert speed from miles per hour to meters per second
+Enter Here: 1
+Enter the temperature you wish to convert to Celsius: 92
+Celsius: 33.33
+Fahrenheit: 92.00
+
+Thank you for using our program
+
+===================================================================
+Enter [1] to convert Fahrenheit temperature to Celsius
+Enter [2] to convert speed from miles per hour to meters per second
+Enter Here: 2
+Enter the speed in miles/hour you wish to input: 70
+mile(s)/second: 1.17
+mile(s)/hour: 70.00
+
+Thank you for using our program
